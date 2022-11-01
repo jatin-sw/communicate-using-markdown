@@ -8,3 +8,6 @@ if (i < j)
   i -= j;
 }
 ```
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
